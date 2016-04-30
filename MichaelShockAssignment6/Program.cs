@@ -19,7 +19,7 @@ namespace MichaelShockAssignment6
 
         static void Main(string[] args)
         {
-            readFile();
+            ReadFile();
 
             while (!exit) // keep running menu until exit is comfirmed.
             {

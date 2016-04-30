@@ -4,3 +4,6 @@ c:\users\michael shock\documents\visual studio 2015\Projects\MichaelShockAssignm
 c:\users\michael shock\documents\visual studio 2015\Projects\MichaelShockAssignment6\MichaelShockAssignment6\obj\Debug\MichaelShockAssignment6.csprojResolveAssemblyReference.cache
 c:\users\michael shock\documents\visual studio 2015\Projects\MichaelShockAssignment6\MichaelShockAssignment6\obj\Debug\MichaelShockAssignment6.exe
 c:\users\michael shock\documents\visual studio 2015\Projects\MichaelShockAssignment6\MichaelShockAssignment6\obj\Debug\MichaelShockAssignment6.pdb
+C:\Users\Michael Shock\Documents\GitHub\SchoolAssignment6\MichaelShockAssignment6\bin\Debug\MichaelShockAssignment6.exe.config
+C:\Users\Michael Shock\Documents\GitHub\SchoolAssignment6\MichaelShockAssignment6\obj\Debug\MichaelShockAssignment6.exe
+C:\Users\Michael Shock\Documents\GitHub\SchoolAssignment6\MichaelShockAssignment6\obj\Debug\MichaelShockAssignment6.pdb
