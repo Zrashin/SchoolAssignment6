@@ -8,3 +8,4 @@ Sad Sam, 1500.00, 2
 Paul Pauper,  500.00, .5
 Bankrupt Bill, 3500.00, 3.5
 Michael Shock, 15000.00, 20
+Paul Shock, 1000.00, 1
